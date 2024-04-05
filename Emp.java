@@ -37,3 +37,4 @@ public class Emp {
         e2.display();
     }
 }
+// example
